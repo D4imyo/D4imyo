@@ -1,1 +1,3 @@
-![D4imyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4imyo&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D4imyo&hide_border=true&theme=nord" />
+</p>
