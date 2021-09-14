@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4imyo&hide_border=true&theme=nord" />
+  <img width=75% src="https://raw.githubusercontent.com/D4imyo/D4imyo/main/raw.gif" />
 </p>
